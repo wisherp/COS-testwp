@@ -7,6 +7,6 @@ Trying to see what happens when you delete the file that has multiple versions. 
 
 But don't really want to delete this though
 
-Wait is this another bug??
+
 
 yee
